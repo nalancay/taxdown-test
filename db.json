@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password1",
+      "token": "react1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password2",
+      "token": "react2"
+    }
+  ],
+  "taxes": [
+    {
+      "id": "1",
+      "name": "Tax Season 2021",
+      "year": "2021"
+    },
+    {
+      "id": "2",
+      "name": "Tax Season 2020",
+      "year": "2020"
+    },
+    {
+      "id": "4",
+      "name": "Tax Season 2022",
+      "year": "2022"
+    }
+  ],
+  "form": {
+    "inputFields": [
+      {
+        "id": "name",
+        "label": "Name",
+        "placeholder": "Your first name",
+        "type": "text",
+        "maxLength": 20
+      },
+      {
+        "id": "surname",
+        "label": "Surname",
+        "placeholder": "Your last name",
+        "type": "text",
+        "maxLength": 40
+      },
+      {
+        "id": "age",
+        "label": "Age",
+        "placeholder": "Your age",
+        "type": "number"
+      }
+    ],
+    "formValues": {
+      "name": "a",
+      "surname": "s",
+      "age": "20"
+    },
+    "taxId": "1"
+  }
+}
