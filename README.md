@@ -1,9 +1,9 @@
 ## Available Scripts
 
-In the project directory, you can run:\
+In the project directory, you can run:
 
-- run command for backend server : node server.js\
-- run command frontend: npm run dev\
+- run command for backend server : node server.js
+- run command frontend: npm run dev
 - run command test: npm run unit:watch 'fileName' (TaxesTable.test.js or Table.test.js)
 
 ## Technologies and concepts used to build the application
